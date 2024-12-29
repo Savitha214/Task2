@@ -1,0 +1,68 @@
+.signup-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url(https://th.bing.com/th/id/R.e9989b6e33f51f3c397aa6b4d3c09c38?rik=g3H4JSvso7xDew&riu=http%3a%2f%2fwww.cpark.in%2fwp-content%2fuploads%2f2023%2f07%2fheader-768x607.png&ehk=13U%2fQ4w%2fAXIpfd10dmHwOVo1Nru0AvOpVzUygklMZWQ%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+
+
+.signup-form-container {
+    background: rgba(255, 255, 255, 0.9); 
+    padding: 100px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    text-align: center;
+    
+}
+
+
+.signup-form h2 {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.signup-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.signup-button:hover {
+    background-color: #0056b3;
+}
+
+.login-prompt {
+    margin-top: 15px;
+}
+
+.login-prompt a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.login-prompt a:hover {
+    text-decoration: underline;
+}

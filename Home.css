@@ -1,0 +1,120 @@
+.home-container {
+    
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+    background: url(https://th.bing.com/th/id/R.e9989b6e33f51f3c397aa6b4d3c09c38?rik=g3H4JSvso7xDew&riu=http%3a%2f%2fwww.cpark.in%2fwp-content%2fuploads%2f2023%2f07%2fheader-768x607.png&ehk=13U%2fQ4w%2fAXIpfd10dmHwOVo1Nru0AvOpVzUygklMZWQ%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.home-form-container {
+  background: rgba(93, 87, 87, 0.9); 
+  padding: 30px;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(157, 155, 155, 0.1);
+  width: 400px;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 20px;
+  
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 25px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.h1{
+  text-align: center;
+  
+}
+.navbar ul{
+ list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  background-color: gray;
+  display: flex;
+  overflow: hidden;
+  
+}
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  align-items: center;
+  padding: 14px 16px; 
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+  padding: 15px;
+  
+}
+.navbar a:hover{
+  background-color: rgb(186, 182, 182);
+  }
+    .navbar li{
+  float: left;
+  }
+ 
+.tol a{
+float: left;
+color: #f2f2f2;
+text-align: center;
+align-items: center;
+padding: 14px 16px; 
+text-decoration: none;
+font-size: 17px;
+display: block;
+padding: 15px;
+}
+.tol ul{
+  list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #b2adad;
+    display: flex;
+    overflow: hidden;
+    
+  }
+.tol a:hover{
+background-color: rgb(186, 182, 182);
+}
+  .tol li{
+float: left;
+} 
+.home-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
